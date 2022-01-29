@@ -3,6 +3,11 @@
 # Hi, I'm Mahir! 👋
 
 I learning frontend programming.
+
+- 🔭 I’m currently looking for job where i can show my talent.
+
+- 📫 Technical Writing on web development and design.
+ 
 ## My Tech Stacks
 
 

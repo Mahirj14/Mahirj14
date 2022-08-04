@@ -2,9 +2,9 @@
 
 # Hi, I'm Mahir! 👋
 
-I learning frontend programming.
+I learning AWS Cloud Devloper.
 
-- 🔭 I’m currently looking for job where i can show my talent.
+- 🔭 I’m currently working on aws different services like EKS, S3, EC2, lamda, Glue , VPC, CICD, ECS, EFS, EMR, ATHENA, Datebase, aws API, etc....
 
 - 📫 Technical Writing on web development and design.
  
